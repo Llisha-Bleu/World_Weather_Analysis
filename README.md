@@ -11,7 +11,7 @@ This project will be using Python, Pandas and API Keys to create a travel and de
 Working with the `Vacation_Search_starter_code.ipynb` and the `Vacation_Itinerary_starter_code.ipynb`  starter code, Pandas `loc`, `to_numpy()`, and `concat` method will be used to find the requested results. The results will be printed to the command line and saved to three seperate folders (Weather_Database, Vacation_Search, and Vacation_Itinerary). Layered maps will be created and used to visualize the desired results.
 
 ## Purpose
-The purpose of this project is launch a new product with PlanMyTrip that will deliver on all three (3) deleverables outlined.
+The purpose of this project is launch a new product with PlanMyTrip that will deliver on all three (3) deleverables previously outlined.
 
 ## Resources
 - **Data Source:** Vacation_Search_starter_code.ipynb, Vacation_Itinerary_starter_code.ipynb, ride_data.csv, config.py, WeatherPy_Database.csv, WeatherPy_vacation.csv
