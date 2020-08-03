@@ -33,6 +33,12 @@ The purpose of this project is launch a new product with PlanMyTrip that will de
 >- Minimum temperature criteria for your vaction: `65`
 >- Maximum temperature criteria for your vaction: `95`
 >
+>
+>**DataFrame showing ONLY where a hotel name is found from the terminal:**
+>
+>![clean_hotel](./Vacation_Search/clean_hotel.png)
+>
+>
 >**A marker layer map showing destinations with pop-up markers:**
 >
 >![WeatherPy_vacation_map](./Vacation_Search/WeatherPy_vacation_map.png)
